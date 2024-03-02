@@ -1,0 +1,65 @@
+p {
+    color: blue; 
+}
+
+h1 {
+    color: aqua;
+}
+
+.paraghaph {
+    color: red;
+}
+.paraghaph1 {
+    color: rgb(216, 112, 211)
+}
+h2{
+  color: palegreen;
+}
+h2{
+    color: blue;
+}
+.text1{
+    width: 50px;
+    height: 70px;
+}
+img{
+    width: 100px;
+    height: 150px;
+}
+.paraghaph{
+    width: 12.5rem; 
+    height: 13.5rem;
+}
+.first-form .red {
+    color: red;
+}
+img{
+    width: 50%;
+    height: 80%;
+}
+img{
+    min-width: 1200px;
+    max-height: 1000px;
+}
+h1{
+    font-size: 30px;
+    border: 100px solid red;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: blueviolet;
+    margin: 50px 60px;
+    padding: 80px 100px;
+}
+body{
+    background-color: rgb(255, 208, 0);
+}
+h2{
+    text-align: center;
+}
+.imge2{
+    width: 300px;
+    height: 250px;
+}
